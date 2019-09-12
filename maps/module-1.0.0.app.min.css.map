@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/app.scss"],"names":[],"mappings":";AAAA,CAAC,AAAC,CACA,UAAU,CAAE,UAAU,CACvB","file":"../scss/module-1.0.0.app.min.css","sourcesContent":["* {\n  box-sizing: border-box;\n}\n"]}
